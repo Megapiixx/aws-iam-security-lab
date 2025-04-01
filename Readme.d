@@ -1,13 +1,16 @@
 # AWS IAM Security Lab
-## Overview
-This project demonstrates IAM security best practices:
-- ✅ **Least Privilege IAM Policy**  
-- ✅ **MFA Enforcement**  
-- ✅ **AWS CloudTrail Logging**  
+## 🔹 Overview
+This project demonstrates **IAM security best practices** by implementing **least privilege access, MFA enforcement, and AWS CloudTrail monitoring**.
 
-## Files Included:
-- `iam-policy.json` (iam-policy.json.png.png)
-- `screenshots/` (Screenshots of IAM setup)
+## 🔹 Steps Implemented
+✅ Created IAM users & groups (Developers & Admins).  
+✅ Applied **least privilege IAM policy**.  
+✅ Enforced **MFA for secure login**.  
+✅ Enabled **CloudTrail to track IAM events**.  
 
-## Resources
+## 🔹 Screenshots
+- IAM Policy: ![IAM Policy](screenshots/iam-policy.png)
+- CloudTrail Log: ![CloudTrail Log](screenshots/cloudtrail-log.png)
+
+## 🔹 Resources
 - AWS IAM Docs: [https://docs.aws.amazon.com/IAM/](https://docs.aws.amazon.com/IAM/)
