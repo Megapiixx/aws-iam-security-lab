@@ -9,8 +9,8 @@ This project demonstrates **IAM security best practices** by implementing **leas
 ✅ Enabled **CloudTrail to track IAM events**.  
 
 ## 🔹 Screenshots
-- IAM Policy: ![IAM Policy]https: //github.com/Megapiixx/aws-iam-security-lab/blob/main/IAM.PNG.png
-- CloudTrail Log: ![CloudTrail Log](screenshots/cloudtrail-log.png)
+- IAM Policy: ![IAM Policy]https: 
+- CloudTrail Log: ![CloudTrail Log]
 
 ## 🔹 Resources
 - AWS IAM Docs: [https://docs.aws.amazon.com/IAM/](https://docs.aws.amazon.com/IAM/)
